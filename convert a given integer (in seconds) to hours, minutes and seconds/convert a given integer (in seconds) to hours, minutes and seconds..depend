@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583062596 source:c:\users\drops\onedrive\desktop\projects c\convert a given integer (in seconds) to hours, minutes and seconds.\main.c
+	<stdio.h>
+	<stdlib.h>
+
